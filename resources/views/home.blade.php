@@ -1345,8 +1345,12 @@
             </a>
 
             <p class="footer-copy">
-                © {{ date('Y') }} Serenity Yoga Studio. Find your balance.
-            </p>
+    <strong>Kelompok 2</strong><br>
+    Annaya Aiki A. P. (241011701227)<br>
+    Naylasashi Ramadhina Putri (241011700945)<br>
+    Silvia Sabrina A. (241011700353)<br>
+    Girado Christian Raja Guk-Guk (241011701367)
+</p>
 
             <div class="footer-links">
                 <a href="#tentang">Tentang</a>
